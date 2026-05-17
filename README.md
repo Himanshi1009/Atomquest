@@ -86,18 +86,3 @@ React SPA (Vite)
   ├── CSV export
   └── Audit logger
 ```
-
-## Evaluation Criteria Covered
-
-| # | Parameter               | Covered |
-|---|-------------------------|---------|
-| 1 | Functionality           | ✅ End-to-end goal lifecycle |
-| 2 | Adherence to BRD        | ✅ All Phase 1 + Phase 2 |
-| 3 | User Friendliness       | ✅ Clean dark UI, intuitive flows |
-| 4 | Absence of Bugs         | ✅ Validation, edge-case handling |
-| 5 | Good-to-Have Features   | ✅ Shared goals, audit trail, analytics |
-| 6 | Cost Optimisation       | ✅ Static SPA, no backend costs |
-
-## License
-
-Built for AtomQuest Hackathon 1.0.
